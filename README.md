@@ -3,6 +3,8 @@
 ## Overview
 This repository contains the source code and documentation for a fully functional vending machine prototype developed using Arduino microcontroller platform and various sensors and actuators. The project involves designing and implementing embedded software to control the vending machine's functionalities, including product selection, payment processing, and item dispensing. Additionally, the vending machine is deployed in a arunima(girls) hostel to provide easy access to sanitary pads, addressing a critical need for menstrual hygiene management.
 
+![Alt text](vm.jpeg)
+
 ## Features
 - Accurate product detection using IR sensors
 - Precise item dispensing using servo motors
